@@ -1,0 +1,449 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "ImageView",
+            "height": 18,
+            "width": 36,
+            "position": {
+                "column_min": 478,
+                "row_min": 24,
+                "column_max": 514,
+                "row_max": 42
+            }
+        },
+        {
+            "id": 1,
+            "class": "ImageView",
+            "height": 82,
+            "width": 81,
+            "position": {
+                "column_min": 24,
+                "row_min": 79,
+                "column_max": 105,
+                "row_max": 161
+            }
+        },
+        {
+            "id": 2,
+            "class": "ImageView",
+            "height": 30,
+            "width": 28,
+            "position": {
+                "column_min": 387,
+                "row_min": 102,
+                "column_max": 415,
+                "row_max": 132
+            }
+        },
+        {
+            "id": 3,
+            "class": "ImageView",
+            "height": 30,
+            "width": 24,
+            "position": {
+                "column_min": 462,
+                "row_min": 102,
+                "column_max": 486,
+                "row_max": 132
+            }
+        },
+        {
+            "id": 4,
+            "class": "ImageView",
+            "height": 25,
+            "width": 26,
+            "position": {
+                "column_min": 453,
+                "row_min": 211,
+                "column_max": 479,
+                "row_max": 236
+            }
+        },
+        {
+            "id": 5,
+            "class": "ImageView",
+            "height": 212,
+            "width": 150,
+            "position": {
+                "column_min": 320,
+                "row_min": 294,
+                "column_max": 470,
+                "row_max": 506
+            }
+        },
+        {
+            "id": 6,
+            "class": "TextView",
+            "height": 50,
+            "width": 218,
+            "position": {
+                "column_min": 53,
+                "row_min": 421,
+                "column_max": 271,
+                "row_max": 471
+            }
+        },
+        {
+            "id": 7,
+            "class": "ImageView",
+            "height": 29,
+            "width": 35,
+            "position": {
+                "column_min": 61,
+                "row_min": 577,
+                "column_max": 96,
+                "row_max": 606
+            }
+        },
+        {
+            "id": 8,
+            "class": "ImageView",
+            "height": 38,
+            "width": 32,
+            "position": {
+                "column_min": 97,
+                "row_min": 774,
+                "column_max": 129,
+                "row_max": 812
+            }
+        },
+        {
+            "id": 9,
+            "class": "ImageView",
+            "height": 38,
+            "width": 32,
+            "position": {
+                "column_min": 397,
+                "row_min": 774,
+                "column_max": 429,
+                "row_max": 812
+            }
+        },
+        {
+            "id": 10,
+            "class": "ImageView",
+            "height": 26,
+            "width": 47,
+            "position": {
+                "column_min": 242,
+                "row_min": 780,
+                "column_max": 289,
+                "row_max": 806
+            }
+        },
+        {
+            "id": 11,
+            "class": "ImageView",
+            "height": 41,
+            "width": 36,
+            "position": {
+                "column_min": 399,
+                "row_min": 922,
+                "column_max": 435,
+                "row_max": 963
+            }
+        },
+        {
+            "id": 12,
+            "class": "ImageView",
+            "height": 39,
+            "width": 39,
+            "position": {
+                "column_min": 93,
+                "row_min": 927,
+                "column_max": 132,
+                "row_max": 966
+            }
+        },
+        {
+            "id": 13,
+            "class": "ImageView",
+            "height": 24,
+            "width": 39,
+            "position": {
+                "column_min": 247,
+                "row_min": 931,
+                "column_max": 286,
+                "row_max": 955
+            }
+        },
+        {
+            "id": 14,
+            "class": "ImageView",
+            "height": 9,
+            "width": 203,
+            "position": {
+                "column_min": 165,
+                "row_min": 1170,
+                "column_max": 368,
+                "row_max": 1179
+            }
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 16,
+            "width": 44,
+            "position": {
+                "column_min": 31,
+                "row_min": 24,
+                "column_max": 75,
+                "row_max": 40
+            },
+            "text_content": "9:41"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 45,
+            "position": {
+                "column_min": 125,
+                "row_min": 97,
+                "column_max": 170,
+                "row_max": 111
+            },
+            "text_content": "Hello"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 19,
+            "width": 69,
+            "position": {
+                "column_min": 118,
+                "row_min": 121,
+                "column_max": 187,
+                "row_max": 140
+            },
+            "text_content": "Mickel"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 15,
+            "width": 263,
+            "position": {
+                "column_min": 48,
+                "row_min": 217,
+                "column_max": 311,
+                "row_max": 232
+            },
+            "text_content": "Search for doctors , labs , etc ..."
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 38,
+            "width": 196,
+            "position": {
+                "column_min": 54,
+                "row_min": 302,
+                "column_max": 250,
+                "row_max": 340
+            },
+            "text_content": "How healthy"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 30,
+            "width": 129,
+            "position": {
+                "column_min": 55,
+                "row_min": 345,
+                "column_max": 184,
+                "row_max": 375
+            },
+            "text_content": "are you ?"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 24,
+            "width": 273,
+            "position": {
+                "column_min": 128,
+                "row_min": 561,
+                "column_max": 401,
+                "row_max": 585
+            },
+            "text_content": "Discover our widest range"
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 17,
+            "width": 178,
+            "position": {
+                "column_min": 127,
+                "row_min": 597,
+                "column_max": 305,
+                "row_max": 614
+            },
+            "text_content": "of wellness tests"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 26,
+            "width": 187,
+            "position": {
+                "column_min": 35,
+                "row_min": 681,
+                "column_max": 222,
+                "row_max": 707
+            },
+            "text_content": "Our Specialties"
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 13,
+            "width": 73,
+            "position": {
+                "column_min": 75,
+                "row_min": 854,
+                "column_max": 148,
+                "row_max": 867
+            },
+            "text_content": "Nutrition"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 11,
+            "width": 46,
+            "position": {
+                "column_min": 54,
+                "row_min": 1121,
+                "column_max": 100,
+                "row_max": 1132
+            },
+            "text_content": "Home"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 18,
+            "width": 63,
+            "position": {
+                "column_min": 74,
+                "row_min": 1002,
+                "column_max": 137,
+                "row_max": 1020
+            },
+            "text_content": "Fertility"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 19,
+            "width": 46,
+            "position": {
+                "column_min": 244,
+                "row_min": 851,
+                "column_max": 290,
+                "row_max": 870
+            },
+            "text_content": "Sleep"
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 15,
+            "width": 58,
+            "position": {
+                "column_min": 227,
+                "row_min": 1002,
+                "column_max": 285,
+                "row_max": 1017
+            },
+            "text_content": "Fitness"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 16,
+            "width": 99,
+            "position": {
+                "column_min": 155,
+                "row_min": 1121,
+                "column_max": 254,
+                "row_max": 1137
+            },
+            "text_content": "Appoinment"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 14,
+            "width": 61,
+            "position": {
+                "column_min": 300,
+                "row_min": 1120,
+                "column_max": 361,
+                "row_max": 1134
+            },
+            "text_content": "Doctors"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 14,
+            "width": 49,
+            "position": {
+                "column_min": 418,
+                "row_min": 24,
+                "column_max": 467,
+                "row_max": 38
+            },
+            "text_content": "all ?"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 19,
+            "width": 77,
+            "position": {
+                "column_min": 377,
+                "row_min": 852,
+                "column_max": 454,
+                "row_max": 871
+            },
+            "text_content": "Immunity"
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 15,
+            "width": 112,
+            "position": {
+                "column_min": 370,
+                "row_min": 1002,
+                "column_max": 482,
+                "row_max": 1017
+            },
+            "text_content": "Mental Health"
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 18,
+            "width": 77,
+            "position": {
+                "column_min": 418,
+                "row_min": 1117,
+                "column_max": 495,
+                "row_max": 1135
+            },
+            "text_content": "My Health"
+        }
+    ],
+    "img_shape": [
+        1200,
+        535,
+        3
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        840,
+        375,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:41",
+            "column_min": 22,
+            "row_min": 17,
+            "column_max": 53,
+            "row_max": 28,
+            "width": 31,
+            "height": 11
+        },
+        {
+            "id": 1,
+            "content": "Hello",
+            "column_min": 88,
+            "row_min": 68,
+            "column_max": 119,
+            "row_max": 78,
+            "width": 31,
+            "height": 10
+        },
+        {
+            "id": 2,
+            "content": "Mickel",
+            "column_min": 83,
+            "row_min": 85,
+            "column_max": 131,
+            "row_max": 98,
+            "width": 48,
+            "height": 13
+        },
+        {
+            "id": 3,
+            "content": "Search for doctors , labs , etc ...",
+            "column_min": 34,
+            "row_min": 152,
+            "column_max": 218,
+            "row_max": 163,
+            "width": 184,
+            "height": 11
+        },
+        {
+            "id": 4,
+            "content": "How healthy",
+            "column_min": 38,
+            "row_min": 212,
+            "column_max": 175,
+            "row_max": 238,
+            "width": 137,
+            "height": 26
+        },
+        {
+            "id": 5,
+            "content": "are you ?",
+            "column_min": 39,
+            "row_min": 242,
+            "column_max": 129,
+            "row_max": 263,
+            "width": 90,
+            "height": 21
+        },
+        {
+            "id": 6,
+            "content": "Take Assessment",
+            "column_min": 52,
+            "row_min": 306,
+            "column_max": 152,
+            "row_max": 316,
+            "width": 100,
+            "height": 10
+        },
+        {
+            "id": 7,
+            "content": "Discover our widest range",
+            "column_min": 90,
+            "row_min": 393,
+            "column_max": 281,
+            "row_max": 410,
+            "width": 191,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "of wellness tests",
+            "column_min": 89,
+            "row_min": 418,
+            "column_max": 214,
+            "row_max": 430,
+            "width": 125,
+            "height": 12
+        },
+        {
+            "id": 9,
+            "content": "Our Specialties",
+            "column_min": 25,
+            "row_min": 477,
+            "column_max": 156,
+            "row_max": 495,
+            "width": 131,
+            "height": 18
+        },
+        {
+            "id": 10,
+            "content": "Nutrition",
+            "column_min": 53,
+            "row_min": 598,
+            "column_max": 104,
+            "row_max": 607,
+            "width": 51,
+            "height": 9
+        },
+        {
+            "id": 11,
+            "content": "Home",
+            "column_min": 38,
+            "row_min": 785,
+            "column_max": 70,
+            "row_max": 793,
+            "width": 32,
+            "height": 8
+        },
+        {
+            "id": 12,
+            "content": "Fertility",
+            "column_min": 52,
+            "row_min": 702,
+            "column_max": 96,
+            "row_max": 714,
+            "width": 44,
+            "height": 12
+        },
+        {
+            "id": 13,
+            "content": "Sleep",
+            "column_min": 171,
+            "row_min": 596,
+            "column_max": 203,
+            "row_max": 609,
+            "width": 32,
+            "height": 13
+        },
+        {
+            "id": 14,
+            "content": "Fitness",
+            "column_min": 159,
+            "row_min": 702,
+            "column_max": 200,
+            "row_max": 712,
+            "width": 41,
+            "height": 10
+        },
+        {
+            "id": 15,
+            "content": "Appoinment",
+            "column_min": 109,
+            "row_min": 785,
+            "column_max": 178,
+            "row_max": 796,
+            "width": 69,
+            "height": 11
+        },
+        {
+            "id": 16,
+            "content": "Doctors",
+            "column_min": 210,
+            "row_min": 784,
+            "column_max": 253,
+            "row_max": 794,
+            "width": 43,
+            "height": 10
+        },
+        {
+            "id": 17,
+            "content": "all ?",
+            "column_min": 293,
+            "row_min": 17,
+            "column_max": 327,
+            "row_max": 27,
+            "width": 34,
+            "height": 10
+        },
+        {
+            "id": 18,
+            "content": "Immunity",
+            "column_min": 264,
+            "row_min": 597,
+            "column_max": 318,
+            "row_max": 610,
+            "width": 54,
+            "height": 13
+        },
+        {
+            "id": 19,
+            "content": "Mental Health",
+            "column_min": 259,
+            "row_min": 702,
+            "column_max": 338,
+            "row_max": 712,
+            "width": 79,
+            "height": 10
+        },
+        {
+            "id": 20,
+            "content": "My Health",
+            "column_min": 293,
+            "row_min": 782,
+            "column_max": 347,
+            "row_max": 795,
+            "width": 54,
+            "height": 13
+        }
+    ]
+}

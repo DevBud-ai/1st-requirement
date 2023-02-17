@@ -1,0 +1,429 @@
+{
+    "img_shape": [
+        1920,
+        1080,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "TVDREAM",
+            "column_min": 70,
+            "row_min": 103,
+            "column_max": 305,
+            "row_max": 142,
+            "width": 235,
+            "height": 39
+        },
+        {
+            "id": 1,
+            "content": "Yidio",
+            "column_min": 38,
+            "row_min": 235,
+            "column_max": 124,
+            "row_max": 267,
+            "width": 86,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "FAK",
+            "column_min": 152,
+            "row_min": 13,
+            "column_max": 179,
+            "row_max": 23,
+            "width": 27,
+            "height": 10
+        },
+        {
+            "id": 3,
+            "content": "EFILM",
+            "column_min": 26,
+            "row_min": 383,
+            "column_max": 199,
+            "row_max": 436,
+            "width": 173,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "lat\u00e9l\u00e9",
+            "column_min": 99,
+            "row_min": 545,
+            "column_max": 202,
+            "row_max": 580,
+            "width": 103,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "Yvelines premi\u00e8re",
+            "column_min": 31,
+            "row_min": 1063,
+            "column_max": 205,
+            "row_max": 1115,
+            "width": 174,
+            "height": 52
+        },
+        {
+            "id": 6,
+            "content": "TVM TVM",
+            "column_min": 39,
+            "row_min": 690,
+            "column_max": 335,
+            "row_max": 751,
+            "width": 296,
+            "height": 61
+        },
+        {
+            "id": 7,
+            "content": "Est Parisien",
+            "column_min": 346,
+            "row_min": 678,
+            "column_max": 593,
+            "row_max": 737,
+            "width": 247,
+            "height": 59
+        },
+        {
+            "id": 8,
+            "content": "est parisien",
+            "column_min": 48,
+            "row_min": 752,
+            "column_max": 186,
+            "row_max": 772,
+            "width": 138,
+            "height": 20
+        },
+        {
+            "id": 9,
+            "content": "General",
+            "column_min": 238,
+            "row_min": 748,
+            "column_max": 325,
+            "row_max": 766,
+            "width": 87,
+            "height": 18
+        },
+        {
+            "id": 10,
+            "content": "France",
+            "column_min": 238,
+            "row_min": 782,
+            "column_max": 315,
+            "row_max": 802,
+            "width": 77,
+            "height": 20
+        },
+        {
+            "id": 11,
+            "content": "CNA",
+            "column_min": 48,
+            "row_min": 1405,
+            "column_max": 189,
+            "row_max": 1461,
+            "width": 141,
+            "height": 56
+        },
+        {
+            "id": 12,
+            "content": "kto",
+            "column_min": 58,
+            "row_min": 1580,
+            "column_max": 140,
+            "row_max": 1619,
+            "width": 82,
+            "height": 39
+        },
+        {
+            "id": 13,
+            "content": "GRAND LILLETV",
+            "column_min": 37,
+            "row_min": 892,
+            "column_max": 196,
+            "row_max": 940,
+            "width": 159,
+            "height": 48
+        },
+        {
+            "id": 14,
+            "content": "News",
+            "column_min": 237,
+            "row_min": 920,
+            "column_max": 301,
+            "row_max": 939,
+            "width": 64,
+            "height": 19
+        },
+        {
+            "id": 15,
+            "content": "France",
+            "column_min": 238,
+            "row_min": 957,
+            "column_max": 314,
+            "row_max": 975,
+            "width": 76,
+            "height": 18
+        },
+        {
+            "id": 16,
+            "content": "IFILM",
+            "column_min": 238,
+            "row_min": 344,
+            "column_max": 348,
+            "row_max": 378,
+            "width": 110,
+            "height": 34
+        },
+        {
+            "id": 17,
+            "content": "Cinema",
+            "column_min": 237,
+            "row_min": 400,
+            "column_max": 325,
+            "row_max": 421,
+            "width": 88,
+            "height": 21
+        },
+        {
+            "id": 18,
+            "content": "France",
+            "column_min": 237,
+            "row_min": 436,
+            "column_max": 314,
+            "row_max": 456,
+            "width": 77,
+            "height": 20
+        },
+        {
+            "id": 19,
+            "content": "Featured",
+            "column_min": 61,
+            "row_min": 1768,
+            "column_max": 152,
+            "row_max": 1786,
+            "width": 91,
+            "height": 18
+        },
+        {
+            "id": 20,
+            "content": "Watch TV Shows Online",
+            "column_min": 207,
+            "row_min": 232,
+            "column_max": 882,
+            "row_max": 278,
+            "width": 675,
+            "height": 46
+        },
+        {
+            "id": 21,
+            "content": "La tel\u00e9",
+            "column_min": 239,
+            "row_min": 516,
+            "column_max": 374,
+            "row_max": 552,
+            "width": 135,
+            "height": 36
+        },
+        {
+            "id": 22,
+            "content": "General",
+            "column_min": 237,
+            "row_min": 573,
+            "column_max": 326,
+            "row_max": 595,
+            "width": 89,
+            "height": 22
+        },
+        {
+            "id": 23,
+            "content": "France",
+            "column_min": 237,
+            "row_min": 610,
+            "column_max": 315,
+            "row_max": 628,
+            "width": 78,
+            "height": 18
+        },
+        {
+            "id": 24,
+            "content": "Grand Lille TV",
+            "column_min": 238,
+            "row_min": 864,
+            "column_max": 530,
+            "row_max": 898,
+            "width": 292,
+            "height": 34
+        },
+        {
+            "id": 25,
+            "content": "Yvelines TV",
+            "column_min": 236,
+            "row_min": 1036,
+            "column_max": 478,
+            "row_max": 1072,
+            "width": 242,
+            "height": 36
+        },
+        {
+            "id": 26,
+            "content": "Regional",
+            "column_min": 237,
+            "row_min": 1090,
+            "column_max": 340,
+            "row_max": 1117,
+            "width": 103,
+            "height": 27
+        },
+        {
+            "id": 27,
+            "content": "France",
+            "column_min": 238,
+            "row_min": 1129,
+            "column_max": 315,
+            "row_max": 1150,
+            "width": 77,
+            "height": 21
+        },
+        {
+            "id": 28,
+            "content": "Rouge tv",
+            "column_min": 238,
+            "row_min": 1208,
+            "column_max": 419,
+            "row_max": 1255,
+            "width": 181,
+            "height": 47
+        },
+        {
+            "id": 29,
+            "content": "General",
+            "column_min": 237,
+            "row_min": 1268,
+            "column_max": 325,
+            "row_max": 1286,
+            "width": 88,
+            "height": 18
+        },
+        {
+            "id": 30,
+            "content": "France",
+            "column_min": 238,
+            "row_min": 1303,
+            "column_max": 314,
+            "row_max": 1321,
+            "width": 76,
+            "height": 18
+        },
+        {
+            "id": 31,
+            "content": "CNA Sat",
+            "column_min": 238,
+            "row_min": 1385,
+            "column_max": 413,
+            "row_max": 1417,
+            "width": 175,
+            "height": 32
+        },
+        {
+            "id": 32,
+            "content": "Regional , General",
+            "column_min": 237,
+            "row_min": 1437,
+            "column_max": 439,
+            "row_max": 1463,
+            "width": 202,
+            "height": 26
+        },
+        {
+            "id": 33,
+            "content": "France",
+            "column_min": 238,
+            "row_min": 1476,
+            "column_max": 314,
+            "row_max": 1495,
+            "width": 76,
+            "height": 19
+        },
+        {
+            "id": 34,
+            "content": "\u039a\u03a4\u039f",
+            "column_min": 241,
+            "row_min": 1558,
+            "column_max": 323,
+            "row_max": 1592,
+            "width": 82,
+            "height": 34
+        },
+        {
+            "id": 35,
+            "content": "Culture & Religion",
+            "column_min": 237,
+            "row_min": 1615,
+            "column_max": 431,
+            "row_max": 1630,
+            "width": 194,
+            "height": 15
+        },
+        {
+            "id": 36,
+            "content": "Categories",
+            "column_min": 265,
+            "row_min": 1770,
+            "column_max": 379,
+            "row_max": 1790,
+            "width": 114,
+            "height": 20
+        },
+        {
+            "id": 37,
+            "content": "Countries",
+            "column_min": 488,
+            "row_min": 1770,
+            "column_max": 589,
+            "row_max": 1786,
+            "width": 101,
+            "height": 16
+        },
+        {
+            "id": 38,
+            "content": "1:02",
+            "column_min": 987,
+            "row_min": 18,
+            "column_max": 1057,
+            "row_max": 45,
+            "width": 70,
+            "height": 27
+        },
+        {
+            "id": 39,
+            "content": "Recent",
+            "column_min": 719,
+            "row_min": 1769,
+            "column_max": 793,
+            "row_max": 1787,
+            "width": 74,
+            "height": 18
+        },
+        {
+            "id": 40,
+            "content": "a \u2012\u2012\u2012",
+            "column_min": 923,
+            "row_min": 91,
+            "column_max": 1052,
+            "row_max": 146,
+            "width": 129,
+            "height": 55
+        },
+        {
+            "id": 41,
+            "content": "Favorites",
+            "column_min": 923,
+            "row_min": 1769,
+            "column_max": 1020,
+            "row_max": 1786,
+            "width": 97,
+            "height": 17
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "img_shape": [
+        714,
+        351,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "7:11",
+            "column_min": 67,
+            "row_min": 38,
+            "column_max": 93,
+            "row_max": 49,
+            "width": 26,
+            "height": 11
+        },
+        {
+            "id": 1,
+            "content": "$ 2k",
+            "column_min": 48,
+            "row_min": 503,
+            "column_max": 65,
+            "row_max": 511,
+            "width": 17,
+            "height": 8
+        },
+        {
+            "id": 2,
+            "content": "it's Sun , 21 Nov",
+            "column_min": 78,
+            "row_min": 84,
+            "column_max": 143,
+            "row_max": 93,
+            "width": 65,
+            "height": 9
+        },
+        {
+            "id": 3,
+            "content": "Hello & welcome , Daniel's family !",
+            "column_min": 38,
+            "row_min": 128,
+            "column_max": 222,
+            "row_max": 141,
+            "width": 184,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "Balance",
+            "column_min": 38,
+            "row_min": 158,
+            "column_max": 207,
+            "row_max": 200,
+            "width": 169,
+            "height": 42
+        },
+        {
+            "id": 5,
+            "content": "Daily",
+            "column_min": 212,
+            "row_min": 166,
+            "column_max": 264,
+            "row_max": 203,
+            "width": 52,
+            "height": 37
+        },
+        {
+            "id": 6,
+            "content": "$ 46,780.50",
+            "column_min": 41,
+            "row_min": 221,
+            "column_max": 249,
+            "row_max": 254,
+            "width": 208,
+            "height": 33
+        },
+        {
+            "id": 7,
+            "content": "$ 1k",
+            "column_min": 47,
+            "row_min": 555,
+            "column_max": 64,
+            "row_max": 563,
+            "width": 17,
+            "height": 8
+        },
+        {
+            "id": 8,
+            "content": "08:42 AM",
+            "column_min": 51,
+            "row_min": 378,
+            "column_max": 103,
+            "row_max": 388,
+            "width": 52,
+            "height": 10
+        },
+        {
+            "id": 9,
+            "content": "$ 45.00",
+            "column_min": 61,
+            "row_min": 400,
+            "column_max": 111,
+            "row_max": 415,
+            "width": 50,
+            "height": 15
+        },
+        {
+            "id": 10,
+            "content": "Spotify",
+            "column_min": 85,
+            "row_min": 299,
+            "column_max": 122,
+            "row_max": 313,
+            "width": 37,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "Daily Curve",
+            "column_min": 48,
+            "row_min": 469,
+            "column_max": 111,
+            "row_max": 481,
+            "width": 63,
+            "height": 12
+        },
+        {
+            "id": 12,
+            "content": "$ 500",
+            "column_min": 48,
+            "row_min": 607,
+            "column_max": 73,
+            "row_max": 616,
+            "width": 25,
+            "height": 9
+        },
+        {
+            "id": 13,
+            "content": "**** 6890",
+            "column_min": 82,
+            "row_min": 347,
+            "column_max": 125,
+            "row_max": 360,
+            "width": 43,
+            "height": 13
+        },
+        {
+            "id": 14,
+            "content": "18 Nov",
+            "column_min": 78,
+            "row_min": 650,
+            "column_max": 107,
+            "row_max": 658,
+            "width": 29,
+            "height": 8
+        },
+        {
+            "id": 15,
+            "content": ".",
+            "column_min": 239,
+            "row_min": 38,
+            "column_max": 245,
+            "row_max": 48,
+            "width": 6,
+            "height": 10
+        },
+        {
+            "id": 16,
+            "content": "50",
+            "column_min": 285,
+            "row_min": 37,
+            "column_max": 302,
+            "row_max": 47,
+            "width": 17,
+            "height": 10
+        },
+        {
+            "id": 17,
+            "content": "19",
+            "column_min": 142,
+            "row_min": 649,
+            "column_max": 151,
+            "row_max": 657,
+            "width": 9,
+            "height": 8
+        },
+        {
+            "id": 18,
+            "content": "Nov",
+            "column_min": 153,
+            "row_min": 649,
+            "column_max": 171,
+            "row_max": 659,
+            "width": 18,
+            "height": 10
+        },
+        {
+            "id": 19,
+            "content": "Cards",
+            "column_min": 209,
+            "row_min": 81,
+            "column_max": 244,
+            "row_max": 93,
+            "width": 35,
+            "height": 12
+        },
+        {
+            "id": 20,
+            "content": "Money Save",
+            "column_min": 180,
+            "row_min": 294,
+            "column_max": 244,
+            "row_max": 305,
+            "width": 64,
+            "height": 11
+        },
+        {
+            "id": 21,
+            "content": "**** 8942",
+            "column_min": 224,
+            "row_min": 344,
+            "column_max": 266,
+            "row_max": 354,
+            "width": 42,
+            "height": 10
+        },
+        {
+            "id": 22,
+            "content": "11:59 PM",
+            "column_min": 180,
+            "row_min": 378,
+            "column_max": 226,
+            "row_max": 387,
+            "width": 46,
+            "height": 9
+        },
+        {
+            "id": 23,
+            "content": "+ $ 75.00",
+            "column_min": 181,
+            "row_min": 400,
+            "column_max": 241,
+            "row_max": 415,
+            "width": 60,
+            "height": 15
+        },
+        {
+            "id": 24,
+            "content": "$ 1,280",
+            "column_min": 203,
+            "row_min": 471,
+            "column_max": 270,
+            "row_max": 491,
+            "width": 67,
+            "height": 20
+        },
+        {
+            "id": 25,
+            "content": "20 Nov",
+            "column_min": 206,
+            "row_min": 650,
+            "column_max": 239,
+            "row_max": 657,
+            "width": 33,
+            "height": 7
+        },
+        {
+            "id": 26,
+            "content": "+ %",
+            "column_min": 277,
+            "row_min": 244,
+            "column_max": 312,
+            "row_max": 254,
+            "width": 35,
+            "height": 10
+        },
+        {
+            "id": 27,
+            "content": "2.3",
+            "column_min": 284,
+            "row_min": 243,
+            "column_max": 303,
+            "row_max": 253,
+            "width": 19,
+            "height": 10
+        },
+        {
+            "id": 28,
+            "content": "21 Nov",
+            "column_min": 274,
+            "row_min": 650,
+            "column_max": 303,
+            "row_max": 657,
+            "width": 29,
+            "height": 7
+        },
+        {
+            "id": 29,
+            "content": "Pres",
+            "column_min": 311,
+            "row_min": 291,
+            "column_max": 332,
+            "row_max": 303,
+            "width": 21,
+            "height": 12
+        },
+        {
+            "id": 30,
+            "content": "07 :",
+            "column_min": 311,
+            "row_min": 379,
+            "column_max": 331,
+            "row_max": 389,
+            "width": 20,
+            "height": 10
+        },
+        {
+            "id": 31,
+            "content": "$",
+            "column_min": 321,
+            "row_min": 399,
+            "column_max": 332,
+            "row_max": 414,
+            "width": 11,
+            "height": 15
+        }
+    ]
+}
